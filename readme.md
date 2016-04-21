@@ -1,4 +1,4 @@
-# ![logo](logo/js-util-has-logo.png)
+# ![js-util-has](logo/js-util-has-logo.png)
 
 # License
 
